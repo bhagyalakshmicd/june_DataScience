@@ -1,1 +1,5 @@
 x=8
+
+name = 'raju'
+place = 'kozhikode'
+age = 24
